@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+#album{
+    height: 500px;
+    width: 400px;
+}
